@@ -158,6 +158,7 @@ const TrustedSVGSources = [
 	'flat.badgen.net',
 	'gemnasium.com',
 	'githost.io',
+	'github.com',
 	'gitlab.com',
 	'godoc.org',
 	'goreportcard.com',
